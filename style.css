@@ -20,7 +20,7 @@
     align-items: start;
     padding: 5px 30px;
     font-family: 'Courier New', Courier, monospace;
-    position: fixed;
+/*     position: fixed; */
     z-index: 99;
 }
 .nav .logo{
